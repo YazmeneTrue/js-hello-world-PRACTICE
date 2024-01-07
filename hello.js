@@ -4,7 +4,8 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, World!"); console.log(25); console.log('"The Princess and the Frog"');
+ console.log("Launch" + "Code")
 
 /*  
 Next, PLAY! 
